@@ -7,9 +7,9 @@
     },
 
     "broker": {
-        "mt5_server": "Headway-Demo",
-        "account_id": 2305317,
-        "password": "ra!9g6lV", // Use encryption key from your vault
+        "mt5_server": "Coinexx-Live",
+        "account_id": 998562,
+        "password": "Dk2@@JRBhe4gc6", // Use encryption key from your vault
         "timeout_ms": 10, // Ultra-low latency
         "ping_threshold": 15 // Max acceptable ping
     },
@@ -17,7 +17,7 @@
     "scalping_core": {
         "symbols": ["EURUSD", "XAUUSD", "BTCUSD"],
         "lot_size": 0.15,
-        "max_concurrent_trades": 5,
+        "max_concurrent_trades": 10,
         "cycle_speed_ms": 25, // 25ms refresh rate
         
         "entry_logic": {
