@@ -53,8 +53,8 @@
     "monitoring": {
         "telegram_alerts": {
             "enabled": true,
-            "bot_token": "encrypted:CD8G3H1K",
-            "chat_id": "-100123456"
+            "bot_token": "",
+            "chat_id": ""
         },
         "log_verbosity": "extreme"
     }
