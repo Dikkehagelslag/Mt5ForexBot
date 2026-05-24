@@ -6,7 +6,7 @@
         "strategy": "Millisecond Scalper Pro"
     },
 
-    "broker": {
+    "broker": { "Coinexx Limited",
         "mt5_server": "Coinexx-Live",
         "account_id": 998562,
         "password": "Dk2@@JRBhe4gc6", // Use encryption key from your vault
